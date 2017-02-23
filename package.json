@@ -1,0 +1,18 @@
+{
+  "name": "ffplay-static",
+  "version": "3.2.2",
+  "description": "ffplay static binaries for Windows and macOS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilatorily/ffplay-static.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "ffplay",
+    "windows",
+    "macos"
+  ],
+  "author": "Huy Dang Lê-Ngô",
+  "license": "GPL-3.0"
+}
